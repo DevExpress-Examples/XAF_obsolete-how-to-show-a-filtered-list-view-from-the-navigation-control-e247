@@ -1,0 +1,63 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FilteredListViewNavigationControl.Module", "FilteredListViewNavigationControl.Module\FilteredListViewNavigationControl.Module.vbproj", "{B435BD3C-AEEE-4BBC-89E9-7BE6644AD1FD}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Module.Web", "FilteredListViewNavigationControl.Module.Web\Module.Web.vbproj", "{88CE120B-C015-4D88-BC18-C08C5DA0E759}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FilteredListViewNavigationControl.Web", "FilteredListViewNavigationControl.Web\FilteredListViewNavigationControl.Web.vbproj", "{384CB1EC-FC73-4432-A53E-3F45A5624C07}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Module.Win", "FilteredListViewNavigationControl.Module.Win\Module.Win.vbproj", "{3F8AD9B1-F07F-4074-98A8-7A7A7B9631BA}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FilteredListViewNavigationControl.Win", "FilteredListViewNavigationControl.Win\FilteredListViewNavigationControl.Win.vbproj", "{82450B74-4905-4589-9022-DA3FFEA51823}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B435BD3C-AEEE-4BBC-89E9-7BE6644AD1FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B435BD3C-AEEE-4BBC-89E9-7BE6644AD1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B435BD3C-AEEE-4BBC-89E9-7BE6644AD1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B435BD3C-AEEE-4BBC-89E9-7BE6644AD1FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CE120B-C015-4D88-BC18-C08C5DA0E759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CE120B-C015-4D88-BC18-C08C5DA0E759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CE120B-C015-4D88-BC18-C08C5DA0E759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CE120B-C015-4D88-BC18-C08C5DA0E759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{384CB1EC-FC73-4432-A53E-3F45A5624C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384CB1EC-FC73-4432-A53E-3F45A5624C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384CB1EC-FC73-4432-A53E-3F45A5624C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384CB1EC-FC73-4432-A53E-3F45A5624C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F8AD9B1-F07F-4074-98A8-7A7A7B9631BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8AD9B1-F07F-4074-98A8-7A7A7B9631BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8AD9B1-F07F-4074-98A8-7A7A7B9631BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8AD9B1-F07F-4074-98A8-7A7A7B9631BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82450B74-4905-4589-9022-DA3FFEA51823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82450B74-4905-4589-9022-DA3FFEA51823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82450B74-4905-4589-9022-DA3FFEA51823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82450B74-4905-4589-9022-DA3FFEA51823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
