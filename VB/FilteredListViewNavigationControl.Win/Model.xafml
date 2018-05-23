@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <NavigationItems>
+    <Item Id="Default">
+      <Item Id="Task" IsNewNode="True" ViewId="Task_ListView" />
+    </Item>
+  </NavigationItems>
+</Application>
