@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Module.cs](./CS/HowToShowFilteredListViewFromNavigationControl.Module/Module.cs) (VB: [Module.vb](./VB/HowToShowFilteredListViewFromNavigationControl.Module/Module.vb))
+* [MyShowNavigationItemController.cs](./CS/HowToShowFilteredListViewFromNavigationControl.Module/MyShowNavigationItemController.cs) (VB: [MyShowNavigationItemController.vb](./VB/HowToShowFilteredListViewFromNavigationControl.Module/MyShowNavigationItemController.vb))
+<!-- default file list end -->
 # OBSOLETE - How to Show a Filtered List View from the Navigation Control
 
 
