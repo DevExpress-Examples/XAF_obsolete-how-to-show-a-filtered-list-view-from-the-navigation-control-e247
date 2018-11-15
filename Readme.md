@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Module.cs](./CS/FilteredListViewNavigationControl.Module/Module.cs) (VB: [Module.vb](./VB/FilteredListViewNavigationControl.Module/Module.vb))**
+<!-- default file list end -->
 # OBSOLETE - How to Show a Filtered List View from the Navigation Control
 
 
